@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPPatterns.Chap3.Layered.Model\ASPPatterns.Chap3.Layered.Model.csproj" />
+  </ItemGroup>
+
+</Project>
